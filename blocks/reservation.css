@@ -6,6 +6,7 @@
   background-size: cover;
   display: flex;
   flex-direction: column;
+  background-position: center;
 }
 
 .reservation__title {
@@ -21,4 +22,5 @@
 .reservation__form {
   margin: 0 auto;
   max-width: 385px;
+  width: 100%;
 }
